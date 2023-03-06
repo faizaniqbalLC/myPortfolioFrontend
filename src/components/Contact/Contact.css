@@ -7,7 +7,6 @@
 
 .contactRightBar {
   background-image: linear-gradient(to bottom, hsl(250, 100%, 75%), white);
-
   width: 30%;
   height: inherit;
   animation: contactFormTransition 1s linear forwards;
