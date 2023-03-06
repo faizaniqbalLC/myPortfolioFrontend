@@ -32,6 +32,9 @@ const Contact = () => {
       dispatch({ type: "CLEAR_ERRORS" });
     }
     if (alertMessage) {
+      setEmail("");
+      setMessage("");
+      setName("");
       alert.success(alertMessage);
       dispatch({ type: "CLEAR_MESSAGE" });
     }
