@@ -1,6 +1,6 @@
 **Backend for that myPortfolio follow this link:** 
 
-https://github.com/faizaniqbalLC/newProject
+https://github.com/faizaniqbalLC/myPortfolioBackend
 
 ## Available Scripts
 
