@@ -26,7 +26,7 @@ const Footer = () => {
       </div>
       <div>
         <Typography variant="h6">Social Media</Typography>
-        <a href="https://github.com/Muhammad-fizan-Iqbal" target="blank">
+        <a href="https://github.com/faizaniqbalLC/" target="blank">
           <BsGithub />
         </a>
         <a
