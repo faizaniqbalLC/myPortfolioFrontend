@@ -1,0 +1,12 @@
+[build]
+  command = "npm ci && npm run build" # Replace with your install and build commands
+  publish = "dist" # Replace with the directory where your build artifacts are generated
+
+[build.environment]
+  NODE_VERSION = "18" # Specify the desired Node.js version
+
+[build.cache]
+  paths = [
+    "node_modules/**", # Adjust the paths based on your project's structure
+    ".cache/**"
+  ]
